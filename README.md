@@ -1,1 +1,1 @@
-# rest-template-demo
+Consume Restfull webservices with RestTemplate
